@@ -3,7 +3,8 @@ The Tabroom Results Scraper allows you to download publicly available Tabroom re
 
 ## Installation
 I'll try to write out an installation guide for people with less technical experience. Feel free to reach out to me for any questions though at zachary@siegel.com.
-###MacOS
+MacOS:
+
 1. Download and install Python 3 from https://www.python.org/downloads/
 2. Download and install the Pip 3 package manager from https://pip.pypa.io/en/stable/installing/
 3. Download this repository and unzip it on your computer.
